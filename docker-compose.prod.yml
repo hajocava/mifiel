@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  app:
+    image: mifiel-prod
+    build:
+      dockerfile: Dockerfile.prod
+    ports:
+      - 3000:3000
