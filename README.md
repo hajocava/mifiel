@@ -4,4 +4,4 @@
 
 2. Cree un archivo en la raíz del proyecto llamado `env.local` para almacenar las variables de entorno, basándose en el archivo de ejemplo `.env.example`.
 
-3. Finalmente, ejecute el comando `docker compose up --build`
+3. Finalmente, ejecute el comando `docker compose up --build` En caso de que su equipo no reconozca el comando anterior, necesita tener instalado docker desktop.
